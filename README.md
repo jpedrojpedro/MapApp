@@ -17,3 +17,6 @@ Dependencies
 
 - swingx-all-1.6.3 ([download](https://dl.dropboxusercontent.com/u/5796120/swingx-all-1.6.3.jar))
 - swingx-ws-1.0 ([download](https://dl.dropboxusercontent.com/u/5796120/swingx-ws-1.0.jar))
+
+> should be placed on folder `/lib`
+
